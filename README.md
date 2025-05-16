@@ -14,7 +14,7 @@ ChartGalaxy is a million-scale dataset of synthetic and real infographic charts 
 
 ### Overview
 
-- **Size**: 1,253,455 infographic charts (1,146,596 synthetic + 106,859 real)
+- **Size**: 1,255,606 infographic charts (1,151,087 synthetic + 104,519 real)
 - **Content**: Each infographic chart is paired with the tabular data used to create it
 - **Chart Types**: 75 chart types with 330 chart variations
 - **Layout Templates**: 68 layout templates
