@@ -1,0 +1,39 @@
+
+prompts:
+  high_level_eval_prompt_file: eval_high_level.txt
+  chat_prompt_file: chat_direct_prompt.txt
+
+VLM:
+  max_tokens: null
+  thinking_budget: 1024
+  temperature: 0.0
+  top_p: 1.0
+
+models:
+  # - gpt-4.1-nano
+  # - gpt-4.1-mini
+  # - gpt-4.1
+  # - gpt-4o-2024-11-20
+  # - o4-mini
+  # - o1
+  # - o3
+  # - gemini-2.5-flash-preview-04-17
+  # - gemini-2.5-pro-preview-05-06
+  # - claude-3-7-sonnet-20250219
+  # - Qwen/Qwen2.5-VL-32B-Instruct
+  # - Qwen/Qwen2.5-VL-72B-Instruct
+  # - Doubao-1.5-vision-pro-32k
+  # - moonshot-v1-32k-vision-preview
+  # - chutesai/Llama-4-Scout-17B-16E-Instruct
+  # - chutesai/Llama-4-Maverick-17B-128E-Instruct-FP8
+  # - internvl3-78b
+
+dirs:
+  output_dir: ./output
+  log_dir: ./logs
+  data_root_dir: ./data
+  clip_cache_dir: ./model-ckpts
+
+eval_model: gpt-4o-2024-11-20
+n_workers: 10
+
