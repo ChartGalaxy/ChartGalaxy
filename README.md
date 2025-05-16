@@ -42,7 +42,52 @@ Fine-tuning on ChartGalaxy improves the performance of foundation models on info
 
 A benchmark for assessing LVLMs' code generation for infographic charts. The benchmark evaluates the similarity between charts rendered by the generated D3.js code and ground-truth ones at two levels of granularity: high-level (overall visual similarity) and low-level (average similarity across fine-grained SVG elements).
 
-**We provide the code and data for the constructed benchmark introduced in our paper ([**benchmark**](code_generation_benchmark)).**
+## Overview
+
+The benchmark assesses chart code generation at two levels:
+- **Low-level**: Element-wise similarity between generated and reference SVGs
+- **High-level**: Overall visual fidelity and functionality assessment
+
+## Installation
+
+```bash
+git clone https://github.com/username/chartgalaxy-benchmark.git
+cd chartgalaxy-benchmark
+pip install -r requirements.txt
+```
+
+## Usage
+
+1. Configure settings in `constants.py`:
+   ```python
+   ROOT_DIR = Path("path/to/benchmark/charts")
+   MODEL_TYPES = ["anthropic/claude-3-sonnet-20240229", "openai/gpt-4o-2024-05-13"]
+   EVAL_MODEL = "gpt-4o-2024-11-20"
+   N_WORKERS = 4  # Parallel processing threads
+   ```
+
+2. Run the benchmark:
+   ```bash
+   python main.py
+   ```
+
+## Data Structure
+
+Each chart folder in `ROOT_DIR` should contain:
+- `chart.svg`: Original chart in SVG format
+
+The system will generate:
+- `convert_chart.html`: HTML rendering of reference chart
+- `convert_chart.png`: PNG screenshot of reference chart
+- `convert_chart.json`: Element structure of reference chart
+- Model-specific outputs in subfolders
+
+## Results
+
+Results are saved in model-specific subfolders with:
+- Generated HTML/PNG renderings
+- Evaluation metrics in JSON format
+- Detailed logs in `LOG_DIR`
 
 ### 3. 🖼️ Example-based Infographic Chart Generation
 
