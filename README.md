@@ -42,13 +42,13 @@ Fine-tuning on ChartGalaxy improves the performance of foundation models on info
 
 A benchmark for assessing LVLMs' code generation for infographic charts. The benchmark evaluates the similarity between charts rendered by the generated D3.js code and ground-truth ones at two levels of granularity: high-level (overall visual similarity) and low-level (average similarity across fine-grained SVG elements).
 
-## Overview
+#### Overview
 
 The benchmark assesses chart code generation at two levels:
 - **Low-level**: Element-wise similarity between generated and reference SVGs
 - **High-level**: Overall visual fidelity and functionality assessment
 
-## Installation
+#### Installation
 
 ```bash
 git clone https://github.com/username/chartgalaxy-benchmark.git
@@ -56,7 +56,7 @@ cd chartgalaxy-benchmark
 pip install -r requirements.txt
 ```
 
-## Usage
+#### Usage
 
 1. Configure settings in `constants.py`:
    ```python
@@ -71,7 +71,7 @@ pip install -r requirements.txt
    python main.py
    ```
 
-## Data Structure
+#### Data Structure
 
 Each chart folder in `ROOT_DIR` should contain:
 - `chart.svg`: Original chart in SVG format
@@ -82,7 +82,7 @@ The system will generate:
 - `convert_chart.json`: Element structure of reference chart
 - Model-specific outputs in subfolders
 
-## Results
+#### Results
 
 Results are saved in model-specific subfolders with:
 - Generated HTML/PNG renderings
