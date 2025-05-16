@@ -88,7 +88,7 @@ cd ChartGalaxy/code_generation_benchmark
 
 2. Run the benchmark:
    ```bash
-   python -m code_generation_benchmark.main
+   python main.py
    ```
 
 #### Data Structure
