@@ -8,8 +8,9 @@ This repo contains the associated code for the paper "ChartGalaxy: A Dataset for
 
 ## Introduction
 
-[Teaser image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/teaser.png)
-[Examples image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/examples.png)
+![Teaser image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/teaser.png)
+
+![Examples image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/examples.png)
 
 ### ChartGalaxy
 
