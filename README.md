@@ -4,13 +4,13 @@
 
 This repo contains the associated code for the paper "ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation"
 
-<!-- ## 🔔 News -->
-
-## Introduction
-
 ![Teaser image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/teaser.png)
 
 ![Examples image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/examples.png)
+
+<!-- ## 🔔 News -->
+
+## Introduction
 
 ### ChartGalaxy
 
