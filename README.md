@@ -122,3 +122,17 @@ An example-based method that transforms user-provided tabular data into an infog
 ## Contact
 - chartgalaxy@163.com
 
+
+### 📚 Citation
+If you use ChartGalaxy in your research, please cite:
+```
+@misc{li2025chartgalaxydatasetinfographicchart,
+      title={ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation}, 
+      author={Zhen Li and Yukai Guo and Duan Li and Xinyuan Guo and Bowen Li and Lanxi Xiao and Shenyu Qiao and Jiashu Chen and Zijian Wu and Hui Zhang and Xinhuan Shu and Shixia Liu},
+      year={2025},
+      eprint={2505.18668},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.18668}, 
+}
+```
