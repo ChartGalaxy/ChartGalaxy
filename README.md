@@ -123,7 +123,7 @@ An example-based method that transforms user-provided tabular data into an infog
 - chartgalaxy@163.com
 
 
-### 📚 Citation
+## 📚 Citation
 If you use ChartGalaxy in your research, please cite:
 ```
 @misc{li2025chartgalaxydatasetinfographicchart,
