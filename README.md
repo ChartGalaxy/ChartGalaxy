@@ -124,10 +124,14 @@ An example-based method that transforms user-provided tabular data into an infog
 ## Contact
 - chartgalaxy@163.com
 
-## Relevant Papers
+## Paper Links
+
+### 📌 Main Paper (This Repository)
 
 - **[ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation](https://arxiv.org/abs/2505.18668)**  
   _Zhen Li, Duan Li, Yukai Guo, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu_  
+
+### Relevant Papers
 
 - **[OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics](https://arxiv.org/abs/2505.17473)**  
   _Jiangning Zhu, Yuxing Zhou, Zheng Wang, Juntao Yao, Yima Gu, Yuhui Yuan, Shixia Liu_  
