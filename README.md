@@ -1,6 +1,6 @@
 # ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation
 
-[**🤗 dataset**](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)
+Due to storage limitations, we only include a collection of representative examples. For the full list, please visit the Hugging Face [**🤗 website**](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy).
 
 This repo contains the associated code for the paper "ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation"
 
