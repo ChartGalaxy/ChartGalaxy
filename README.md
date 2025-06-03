@@ -1,6 +1,7 @@
 # ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation
 
-Due to storage limitations, we only include a collection of representative examples. For the full list, please visit the Hugging Face [**🤗 website**](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy).
+## Dataset
+Due to storage limitations, we only include a collection of representative examples. For the full list, please visit the [**🤗 huggingface website**](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy).
 
 This repo contains the associated code for the paper "ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation"
 
@@ -122,6 +123,26 @@ An example-based method that transforms user-provided tabular data into an infog
 ## Contact
 - chartgalaxy@163.com
 
+## Relevant Papers
+
+Certainly! Here’s a polished version of your GitHub README section, with improved formatting and clarity:
+
+---
+
+## Relevant Papers
+
+- **[ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation](https://arxiv.org/abs/2505.18668)**  
+  _Zhen Li, Duan Li, Yukai Guo, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu_  
+
+- **[OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics](https://arxiv.org/abs/2505.17473)**  
+  _Jiangning Zhu, Yuxing Zhou, Zheng Wang, Juntao Yao, Yima Gu, Yuhui Yuan, Shixia Liu_  
+
+- **[InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts](https://arxiv.org/abs/2505.19028)**  
+  _Minzhi Lin, Tianchi Xie, Mengchen Liu, Yilin Ye, Changjian Chen, Shixia Liu_  
+
+---
+
+Feel free to adjust author lists or descriptions to best suit your needs!
 
 ## 📚 Citation
 If you use ChartGalaxy in your research, please cite:
