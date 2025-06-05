@@ -1,7 +1,7 @@
 # ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/logo.png" alt="ChartGalaxy Logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/logo.png" alt="ChartGalaxy Logo" width="256"/>
 </p>
 
 ## Dataset
