@@ -20,11 +20,11 @@ This repo contains the associated code for the paper "ChartGalaxy: A Dataset for
 
 ## Introduction
 
-### ChartGalaxy
+### About
 
 ChartGalaxy is a million-scale dataset of synthetic and real infographic charts with data tables, supporting applications in infographic chart understanding, code generation, and chart generation. The dataset addresses the challenge that existing datasets are mostly limited to plain charts, failing to capture the diverse range of design styles and layouts that are key characteristics of infographic charts.
 
-### Overview
+### Statistics
 
 - **Size**: 1,255,606 infographic charts (1,151,087 synthetic + 104,519 real)
 - **Content**: Each infographic chart is paired with the tabular data used to create it
