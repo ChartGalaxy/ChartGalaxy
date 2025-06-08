@@ -8,7 +8,7 @@ Due to storage limitations, we only include a collection of representative examp
 This repo contains the associated code for the paper "ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation".
 
 ## 🔥 News
-2025.5:  🎉🎉 One paper is accepted by IEEE TVCG.
+2025.5:  We have released the first version of our dataset, which includes 1,151,087 synthetic and 104,519 real infographic charts, covering 75 chart types and 330 variations.
 
 <img src="https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/teaser.png" style="border:none;box-shadow:none;">
 
