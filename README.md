@@ -1,8 +1,15 @@
-# ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/logo.png" alt="ChartGalaxy Logo" width="256"/>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/logo.png" alt="ChartGalaxy Logo" width="144"/>
+    </td>
+    <td>
+      <h1 style="margin: 0; padding-left: 16px;">
+        ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation
+      </h1>
+    </td>
+  </tr>
+</table>
 
 ## Dataset
 > 📦 **[👉 Access the full ChartGalaxy dataset on Hugging Face! 👈](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**
