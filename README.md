@@ -28,7 +28,7 @@
 ![Examples image](assets/teaser.png)
 
 ## 🔥 News
-[**2025.5**] 🎉🎉 We have released the first version of our dataset, which includes 1,151,087 synthetic and 104,519 real infographic charts, covering 75 chart types and 330 variations.
+[2025.5] 🎉🎉 We have released the first version of our dataset, which includes 1,151,087 synthetic and 104,519 real infographic charts, covering 75 chart types and 330 variations.
 
 ## 📦 Dataset
 **[👉 Access the full ChartGalaxy dataset on Hugging Face 🤗! 👈](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**
@@ -79,16 +79,11 @@ A benchmark for assessing LVLMs' code generation for infographic charts. The ben
 
 An example-based method that transforms user-provided tabular data into an infographic chart, aligning with the layout and visual style of a given example chart. User studies show this method outperforms GPT-Image-1 on fidelity, aesthetics, and creativity.
 
-
-## 🤝 Contact
-- chartgalaxy@163.com
-
 ## ⚖️ License
-
 This project is released under the [Apache 2.0 license](LICENSE).
 
 ## 📚 Citation
-If you use ChartGalaxy in your research, please cite:
+If you find our work helpful for your research, please consider citing the following BibTeX entry.
 ```
 @article{li2025chartgalaxy,
   title={{ChartGalaxy}: A Dataset for Infographic Chart Understanding and Generation},
@@ -99,10 +94,12 @@ If you use ChartGalaxy in your research, please cite:
 ```
 
 ## ✨ Related Projects
-
 - **OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**  
 [Paper](https://arxiv.org/abs/2505.17473) | [Code](https://github.com/OrionBench/OrionBench/) | [Dataset](https://huggingface.co/datasets/OrionBench/OrionBench)
 
 - **InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**  
 [Paper](https://arxiv.org/abs/2505.19028) | [Code](https://github.com/CoolDawnAnt/InfoChartQA) | [Dataset](https://huggingface.co/datasets/Jietson/InfoChartQA)
 
+
+## 🤝 Contact
+- chartgalaxy@163.com
