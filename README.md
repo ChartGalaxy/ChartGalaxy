@@ -1,10 +1,10 @@
 <div align=center>
-  <img src="logo.png" width=300 >
+  <img src="assets/logo.png" width=300 >
 </div>
 
 # ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation
 
-<!-- ![ChartGalaxy Logo](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/title.png) -->
+<!-- ![ChartGalaxy Logo](assets/title.png) -->
 
 <!-- This is the official code repository of the paper "[ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation](https://arxiv.org/abs/2505.18668)".  -->
 
@@ -25,7 +25,7 @@
 
 > ChartGalaxy is a million-scale dataset of synthetic and real infographic charts with data tables, supporting applications in infographic chart understanding, code generation, and chart generation. The dataset addresses the challenge that existing datasets are mostly limited to plain charts, failing to capture the diverse range of design styles and layouts that are key characteristics of infographic charts.
 
-![Examples image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/teaser.png)
+![Examples image](assets/teaser.png)
 
 ## 🔥 News
 [**2025.5**] 🎉🎉 We have released the first version of our dataset, which includes 1,151,087 synthetic and 104,519 real infographic charts, covering 75 chart types and 330 variations.
@@ -35,11 +35,10 @@
 
 Due to storage limitations, we only include a collection of representative examples below (and more in [examples](examples)). 
 
-![Examples image](https://raw.githubusercontent.com/ChartGalaxy/ChartGalaxy/refs/heads/main/examples.png)
+![Examples image](assets/examples.png)
 
 
 <!-- ## Introduction
-
 
 ### About -->
 
