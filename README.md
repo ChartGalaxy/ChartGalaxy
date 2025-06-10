@@ -68,6 +68,8 @@ The utility of ChartGalaxy is demonstrated through three representative applicat
 
 Fine-tuning on ChartGalaxy improves the performance of foundation models on infographic chart understanding. 
 
+**We provide the code and data for the evaluation introduced in our paper ([**code**](code_understanding), [**data**](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy/blob/main/eval_data.zip)).**
+
 ### 💻 Infographic Chart Code Generation
 
 A benchmark for assessing LVLMs' code generation for infographic charts. The benchmark evaluates the similarity between charts rendered by the generated D3.js code and ground-truth ones at two levels of granularity: high-level (overall visual similarity) and low-level (average similarity across fine-grained SVG elements).
