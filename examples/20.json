@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "City": "San Francisco",
+      "Diversion Rate": 18.1
+    },
+    {
+      "City": "Portland",
+      "Diversion Rate": 16.8
+    },
+    {
+      "City": "Seattle",
+      "Diversion Rate": 15.6
+    },
+    {
+      "City": "Minneapolis",
+      "Diversion Rate": 14.2
+    },
+    {
+      "City": "Denver",
+      "Diversion Rate": 13.9
+    },
+    {
+      "City": "New York",
+      "Diversion Rate": 12.5
+    },
+    {
+      "City": "Boston",
+      "Diversion Rate": 11.3
+    },
+    {
+      "City": "Los Angeles",
+      "Diversion Rate": 9.8
+    },
+    {
+      "City": "Atlanta",
+      "Diversion Rate": 8.9
+    },
+    {
+      "City": "Austin",
+      "Diversion Rate": 8.5
+    },
+    {
+      "City": "Chicago",
+      "Diversion Rate": 7.2
+    },
+    {
+      "City": "Philadelphia",
+      "Diversion Rate": 6.4
+    },
+    {
+      "City": "Nashville",
+      "Diversion Rate": 5.1
+    },
+    {
+      "City": "Miami",
+      "Diversion Rate": 4.7
+    },
+    {
+      "City": "Phoenix",
+      "Diversion Rate": 3.9
+    }
+  ],
+  "columns": [
+    {
+      "name": "City",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Diversion Rate",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

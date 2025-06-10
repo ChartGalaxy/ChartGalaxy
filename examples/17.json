@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "AI Model": "ChatGPT",
+      "Market Share": 32.1
+    },
+    {
+      "AI Model": "Jasper AI",
+      "Market Share": 18.5
+    },
+    {
+      "AI Model": "YouChat",
+      "Market Share": 12.3
+    },
+    {
+      "AI Model": "DeepL Translator",
+      "Market Share": 16.7
+    },
+    {
+      "AI Model": "Perplexity AI",
+      "Market Share": 9.8
+    },
+    {
+      "AI Model": "TypeHero AI",
+      "Market Share": 7.6
+    },
+    {
+      "AI Model": "Writesonic",
+      "Market Share": 5.2
+    },
+    {
+      "AI Model": "Neuro-Flash",
+      "Market Share": 3.8
+    },
+    {
+      "AI Model": "Simplified AI",
+      "Market Share": 1.3
+    }
+  ],
+  "columns": [
+    {
+      "name": "AI Model",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Market Share",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

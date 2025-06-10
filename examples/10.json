@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "Year": "2000",
+      "Exports (Million U.S. Dollars)": 78.5
+    },
+    {
+      "Year": "2001",
+      "Exports (Million U.S. Dollars)": 73.8
+    },
+    {
+      "Year": "2002",
+      "Exports (Million U.S. Dollars)": 64.6
+    },
+    {
+      "Year": "2003",
+      "Exports (Million U.S. Dollars)": 50.7
+    },
+    {
+      "Year": "2004",
+      "Exports (Million U.S. Dollars)": 46.1
+    },
+    {
+      "Year": "2005",
+      "Exports (Million U.S. Dollars)": 50.7
+    },
+    {
+      "Year": "2006",
+      "Exports (Million U.S. Dollars)": 41.5
+    },
+    {
+      "Year": "2007",
+      "Exports (Million U.S. Dollars)": 32.3
+    },
+    {
+      "Year": "2008",
+      "Exports (Million U.S. Dollars)": 23.1
+    },
+    {
+      "Year": "2009",
+      "Exports (Million U.S. Dollars)": 27.6
+    },
+    {
+      "Year": "2010",
+      "Exports (Million U.S. Dollars)": 18.4
+    },
+    {
+      "Year": "2011",
+      "Exports (Million U.S. Dollars)": 23.1
+    },
+    {
+      "Year": "2012",
+      "Exports (Million U.S. Dollars)": 13.8
+    },
+    {
+      "Year": "2013",
+      "Exports (Million U.S. Dollars)": 18.4
+    },
+    {
+      "Year": "2014",
+      "Exports (Million U.S. Dollars)": 9.2
+    },
+    {
+      "Year": "2015",
+      "Exports (Million U.S. Dollars)": 9.2
+    },
+    {
+      "Year": "2016",
+      "Exports (Million U.S. Dollars)": 4.6
+    },
+    {
+      "Year": "2017",
+      "Exports (Million U.S. Dollars)": 9.2
+    },
+    {
+      "Year": "2018",
+      "Exports (Million U.S. Dollars)": 4.6
+    }
+  ],
+  "columns": [
+    {
+      "name": "Year",
+      "type": "temporal",
+      "role": "x"
+    },
+    {
+      "name": "Exports (Million U.S. Dollars)",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

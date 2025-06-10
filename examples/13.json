@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "Country": "Saudi Arabia",
+      "Percentage of GDP": 7.5
+    },
+    {
+      "Country": "Russia",
+      "Percentage of GDP": 4.1
+    },
+    {
+      "Country": "USA",
+      "Percentage of GDP": 3.5
+    },
+    {
+      "Country": "South Korea",
+      "Percentage of GDP": 2.8
+    },
+    {
+      "Country": "India",
+      "Percentage of GDP": 2.4
+    },
+    {
+      "Country": "United Kingdom",
+      "Percentage of GDP": 2.2
+    },
+    {
+      "Country": "France",
+      "Percentage of GDP": 2.1
+    },
+    {
+      "Country": "Australia",
+      "Percentage of GDP": 2.0
+    },
+    {
+      "Country": "China",
+      "Percentage of GDP": 1.7
+    },
+    {
+      "Country": "Italy",
+      "Percentage of GDP": 1.5
+    },
+    {
+      "Country": "Germany",
+      "Percentage of GDP": 1.4
+    },
+    {
+      "Country": "Brazil",
+      "Percentage of GDP": 1.4
+    },
+    {
+      "Country": "Canada",
+      "Percentage of GDP": 1.3
+    },
+    {
+      "Country": "Spain",
+      "Percentage of GDP": 1.2
+    },
+    {
+      "Country": "Japan",
+      "Percentage of GDP": 1.0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Country",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Percentage of GDP",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

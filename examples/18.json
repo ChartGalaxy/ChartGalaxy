@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "Year": "1997",
+      "Consumer Price Index": 0
+    },
+    {
+      "Year": "1999",
+      "Consumer Price Index": 3.27
+    },
+    {
+      "Year": "2002",
+      "Consumer Price Index": 11.52
+    },
+    {
+      "Year": "2004",
+      "Consumer Price Index": 17.1
+    },
+    {
+      "Year": "2005",
+      "Consumer Price Index": 21.07
+    },
+    {
+      "Year": "2009",
+      "Consumer Price Index": 33
+    },
+    {
+      "Year": "2011",
+      "Consumer Price Index": 39.45
+    },
+    {
+      "Year": "2014",
+      "Consumer Price Index": 46.77
+    }
+  ],
+  "columns": [
+    {
+      "name": "Year",
+      "type": "temporal",
+      "role": "x"
+    },
+    {
+      "name": "Consumer Price Index",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

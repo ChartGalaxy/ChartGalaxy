@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "City": "ATHENS",
+      "Cost (GBP)": 200.42,
+      "Population (Millions)": 0.66
+    },
+    {
+      "City": "PRAGUE",
+      "Cost (GBP)": 199.86,
+      "Population (Millions)": 1.39
+    },
+    {
+      "City": "MOSCOW",
+      "Cost (GBP)": 199.64,
+      "Population (Millions)": 13.01
+    },
+    {
+      "City": "BUDAPEST",
+      "Cost (GBP)": 183.51,
+      "Population (Millions)": 1.75
+    },
+    {
+      "City": "WARSAW",
+      "Cost (GBP)": 180.53,
+      "Population (Millions)": 1.79
+    },
+    {
+      "City": "RIGA",
+      "Cost (GBP)": 172.17,
+      "Population (Millions)": 0.61
+    },
+    {
+      "City": "VILNIUS",
+      "Cost (GBP)": 165.53,
+      "Population (Millions)": 0.58
+    },
+    {
+      "City": "KRAKOW",
+      "Cost (GBP)": 164.8,
+      "Population (Millions)": 0.76
+    }
+  ],
+  "columns": [
+    {
+      "name": "City",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Cost (GBP)",
+      "type": "quantitative",
+      "role": "y"
+    },
+    {
+      "name": "Population (Millions)",
+      "type": "quantitative",
+      "role": "y2"
+    }
+  ]
+}

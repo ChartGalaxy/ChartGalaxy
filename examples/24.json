@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "Material": "Gold",
+      "Item": "Necklace",
+      "Price": 1250
+    },
+    {
+      "Material": "Gold",
+      "Item": "Earring",
+      "Price": 450
+    },
+    {
+      "Material": "Gold",
+      "Item": "Bracelet",
+      "Price": 900
+    },
+    {
+      "Material": "Gold",
+      "Item": "Ring",
+      "Price": 700
+    },
+    {
+      "Material": "Gold",
+      "Item": "Pendant",
+      "Price": 600
+    },
+    {
+      "Material": "Silver",
+      "Item": "Necklace",
+      "Price": 800
+    },
+    {
+      "Material": "Silver",
+      "Item": "Earring",
+      "Price": 200
+    },
+    {
+      "Material": "Silver",
+      "Item": "Bracelet",
+      "Price": 500
+    },
+    {
+      "Material": "Silver",
+      "Item": "Ring",
+      "Price": 350
+    },
+    {
+      "Material": "Silver",
+      "Item": "Pendant",
+      "Price": 300
+    },
+    {
+      "Material": "Diamond",
+      "Item": "Necklace",
+      "Price": 3500
+    },
+    {
+      "Material": "Diamond",
+      "Item": "Earring",
+      "Price": 1200
+    },
+    {
+      "Material": "Diamond",
+      "Item": "Bracelet",
+      "Price": 2000
+    },
+    {
+      "Material": "Diamond",
+      "Item": "Ring",
+      "Price": 1500
+    },
+    {
+      "Material": "Diamond",
+      "Item": "Pendant",
+      "Price": 1000
+    },
+    {
+      "Material": "Platinum",
+      "Item": "Necklace",
+      "Price": 150
+    },
+    {
+      "Material": "Platinum",
+      "Item": "Earring",
+      "Price": 75
+    },
+    {
+      "Material": "Platinum",
+      "Item": "Bracelet",
+      "Price": 110
+    },
+    {
+      "Material": "Platinum",
+      "Item": "Ring",
+      "Price": 90
+    },
+    {
+      "Material": "Platinum",
+      "Item": "Pendant",
+      "Price": 80
+    }
+  ],
+  "columns": [
+    {
+      "name": "Material",
+      "type": "categorical",
+      "role": "group"
+    },
+    {
+      "name": "Item",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Price",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

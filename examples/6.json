@@ -1,0 +1,39 @@
+{
+  "data": [
+    {"Platform": "X", "Region": "Lombardy", "Rate": 900},
+    {"Platform": "X", "Region": "Lazio", "Rate": 850},
+    {"Platform": "X", "Region": "Campania", "Rate": 950},
+    {"Platform": "Pinterest", "Region": "Lombardy", "Rate": 2000},
+    {"Platform": "Pinterest", "Region": "Lazio", "Rate": 1900},
+    {"Platform": "Pinterest", "Region": "Campania", "Rate": 2050},
+    {"Platform": "Facebook", "Region": "Lombardy", "Rate": 1200},
+    {"Platform": "Facebook", "Region": "Lazio", "Rate": 1100},
+    {"Platform": "Facebook", "Region": "Campania", "Rate": 1150},
+    {"Platform": "YouTube", "Region": "Lombardy", "Rate": 1800},
+    {"Platform": "YouTube", "Region": "Lazio", "Rate": 1650},
+    {"Platform": "YouTube", "Region": "Campania", "Rate": 1700},
+    {"Platform": "TikTok", "Region": "Lombardy", "Rate": 3100},
+    {"Platform": "TikTok", "Region": "Lazio", "Rate": 2950},
+    {"Platform": "TikTok", "Region": "Campania", "Rate": 3200},
+    {"Platform": "Instagram", "Region": "Lombardy", "Rate": 2550},
+    {"Platform": "Instagram", "Region": "Lazio", "Rate": 2300},
+    {"Platform": "Instagram", "Region": "Campania", "Rate": 2400}
+  ],
+  "columns": [
+    {
+      "name": "Platform",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Region",
+      "type": "categorical",
+      "role": "group"
+    },
+    {
+      "name": "Rate",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

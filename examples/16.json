@@ -1,0 +1,46 @@
+{
+  "data": [
+    {"year": 2024, "Country": "Germany", "Rate": 9.0},
+    {"year": 2024, "Country": "France", "Rate": 8.0},
+    {"year": 2024, "Country": "UK", "Rate": 5.0},
+    {"year": 2024, "Country": "Norway", "Rate": 3.0},
+    {"year": 2024, "Country": "Spain", "Rate": 2.0},
+    {"year": 2028, "Country": "Germany", "Rate": 22.3},
+    {"year": 2028, "Country": "France", "Rate": 18.5},
+    {"year": 2028, "Country": "UK", "Rate": 15.2},
+    {"year": 2028, "Country": "Norway", "Rate": 75.1},
+    {"year": 2028, "Country": "Spain", "Rate": 12.0},
+    {"year": 2032, "Country": "Germany", "Rate": 45.8},
+    {"year": 2032, "Country": "France", "Rate": 38.2},
+    {"year": 2032, "Country": "UK", "Rate": 32.1},
+    {"year": 2032, "Country": "Norway", "Rate": 92.8},
+    {"year": 2032, "Country": "Spain", "Rate": 21.4},
+    {"year": 2036, "Country": "Germany", "Rate": 68.1},
+    {"year": 2036, "Country": "France", "Rate": 59.4},
+    {"year": 2036, "Country": "UK", "Rate": 51.7},
+    {"year": 2036, "Country": "Norway", "Rate": 97.5},
+    {"year": 2036, "Country": "Spain", "Rate": 36.5},
+    {"year": 2040, "Country": "Germany", "Rate": 84.5},
+    {"year": 2040, "Country": "France", "Rate": 78.2},
+    {"year": 2040, "Country": "UK", "Rate": 72.9},
+    {"year": 2040, "Country": "Norway", "Rate": 98.9},
+    {"year": 2040, "Country": "Spain", "Rate": 54.2}
+  ],
+  "columns": [
+    {
+      "name": "year",
+      "type": "temporal",
+      "role": "x"
+    },
+    {
+      "name": "Country",
+      "type": "categorical",
+      "role": "group"
+    },
+    {
+      "name": "Rate",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "Country": "Archipelago of Indonesia",
+      "Earths": 11.2
+    },
+    {
+      "Country": "People's Republic of China",
+      "Earths": 6.3
+    },
+    {
+      "Country": "United Kingdom of Britannia",
+      "Earths": 5.7
+    },
+    {
+      "Country": "South Korea",
+      "Earths": 3.0
+    },
+    {
+      "Country": "Federative Republic of Brazil",
+      "Earths": 2.6
+    },
+    {
+      "Country": "Denmark",
+      "Earths": 2.1
+    },
+    {
+      "Country": "United States of America",
+      "Earths": 1.4
+    },
+    {
+      "Country": "Federal Republic of Germany",
+      "Earths": 0.8
+    }
+  ],
+  "columns": [
+    {
+      "name": "Country",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Earths",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "Country": "Soviet Union",
+      "Casualties": 27000000
+    },
+    {
+      "Country": "China",
+      "Casualties": 20000000
+    },
+    {
+      "Country": "Germany",
+      "Casualties": 7000000
+    },
+    {
+      "Country": "Poland",
+      "Casualties": 6000000
+    },
+    {
+      "Country": "Japan",
+      "Casualties": 3100000
+    },
+    {
+      "Country": "Yugoslavia",
+      "Casualties": 1000000
+    },
+    {
+      "Country": "France",
+      "Casualties": 600000
+    },
+    {
+      "Country": "United Kingdom",
+      "Casualties": 450000
+    },
+    {
+      "Country": "Italy",
+      "Casualties": 450000
+    },
+    {
+      "Country": "United States",
+      "Casualties": 419000
+    },
+    {
+      "Country": "Greece",
+      "Casualties": 400000
+    },
+    {
+      "Country": "Austria",
+      "Casualties": 384700
+    },
+    {
+      "Country": "Romania",
+      "Casualties": 378000
+    },
+    {
+      "Country": "Czechoslovakia",
+      "Casualties": 340000
+    },
+    {
+      "Country": "Hungary",
+      "Casualties": 300000
+    },
+    {
+      "Country": "Netherlands",
+      "Casualties": 210000
+    }
+  ],
+  "columns": [
+    {
+      "name": "Country",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Casualties",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

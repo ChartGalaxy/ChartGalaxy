@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "TransportationMode": "Truck",
+      "Percentage": 16.3
+    },
+    {
+      "TransportationMode": "Airplane",
+      "Percentage": 45.0
+    },
+    {
+      "TransportationMode": "Ship",
+      "Percentage": 30.0
+    },
+    {
+      "TransportationMode": "Train",
+      "Percentage": 7.5
+    },
+    {
+      "TransportationMode": "Electric Vehicle",
+      "Percentage": 1.3
+    }
+  ],
+  "columns": [
+    {
+      "name": "TransportationMode",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Percentage",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

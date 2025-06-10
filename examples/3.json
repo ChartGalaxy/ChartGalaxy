@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "Age Group": "18-24",
+      "Category": "Comedy",
+      "Percentage": 32.5
+    },
+    {
+      "Age Group": "18-24",
+      "Category": "News",
+      "Percentage": 15.2
+    },
+    {
+      "Age Group": "18-24",
+      "Category": "True Crime",
+      "Percentage": 22.1
+    },
+    {
+      "Age Group": "18-24",
+      "Category": "Education",
+      "Percentage": 20.2
+    },
+    {
+      "Age Group": "18-24",
+      "Category": "Society & Culture",
+      "Percentage": 10.0
+    },
+    {
+      "Age Group": "25-34",
+      "Category": "Comedy",
+      "Percentage": 28.7
+    },
+    {
+      "Age Group": "25-34",
+      "Category": "News",
+      "Percentage": 18.5
+    },
+    {
+      "Age Group": "25-34",
+      "Category": "True Crime",
+      "Percentage": 25.8
+    },
+    {
+      "Age Group": "25-34",
+      "Category": "Education",
+      "Percentage": 17.0
+    },
+    {
+      "Age Group": "25-34",
+      "Category": "Society & Culture",
+      "Percentage": 10.0
+    },
+    {
+      "Age Group": "35-44",
+      "Category": "Comedy",
+      "Percentage": 22.1
+    },
+    {
+      "Age Group": "35-44",
+      "Category": "News",
+      "Percentage": 25.3
+    },
+    {
+      "Age Group": "35-44",
+      "Category": "True Crime",
+      "Percentage": 20.5
+    },
+    {
+      "Age Group": "35-44",
+      "Category": "Education",
+      "Percentage": 18.1
+    },
+    {
+      "Age Group": "35-44",
+      "Category": "Society & Culture",
+      "Percentage": 14.0
+    },
+    {
+      "Age Group": "45+",
+      "Category": "Comedy",
+      "Percentage": 15.6
+    },
+    {
+      "Age Group": "45+",
+      "Category": "News",
+      "Percentage": 30.1
+    },
+    {
+      "Age Group": "45+",
+      "Category": "True Crime",
+      "Percentage": 18.8
+    },
+    {
+      "Age Group": "45+",
+      "Category": "Education",
+      "Percentage": 22.7
+    },
+    {
+      "Age Group": "45+",
+      "Category": "Society & Culture",
+      "Percentage": 12.8
+    }
+  ],
+  "columns": [
+    {
+      "name": "Age Group",
+      "type": "categorical",
+      "role": "group"
+    },
+    {
+      "name": "Category",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Percentage",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

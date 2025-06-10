@@ -1,0 +1,1444 @@
+{
+  "timestamp": "20250610_035309",
+  "total_images": 24,
+  "processed_images": 24,
+  "chart_data": {
+    "./examples/16.png": {
+      "data": [
+        {
+          "Year": "2024",
+          "Germany": 22.3,
+          "France": 18.5,
+          "UK": 15.2,
+          "Norway": null,
+          "Spain": null
+        },
+        {
+          "Year": "2028",
+          "Germany": 22.3,
+          "France": 18.5,
+          "UK": 15.2,
+          "Norway": 75.1,
+          "Spain": null
+        },
+        {
+          "Year": "2032",
+          "Germany": 45.8,
+          "France": 38.2,
+          "UK": 32.1,
+          "Norway": 92.8,
+          "Spain": 21.4
+        },
+        {
+          "Year": "2036",
+          "Germany": 68.1,
+          "France": 59.4,
+          "UK": 51.7,
+          "Norway": 97.5,
+          "Spain": 36.5
+        },
+        {
+          "Year": "2040",
+          "Germany": 84.5,
+          "France": 78.2,
+          "UK": 72.9,
+          "Norway": 98.9,
+          "Spain": 54.2
+        }
+      ],
+      "columns": [
+        {
+          "name": "Year",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Germany",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "France",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "UK",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Norway",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Spain",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/12.png": {
+      "data": [
+        {
+          "RevenueShare": "Publisher",
+          "value": 5
+        },
+        {
+          "RevenueShare": "Distributor",
+          "value": 5
+        },
+        {
+          "RevenueShare": "Artist",
+          "value": 15
+        },
+        {
+          "RevenueShare": "Platform",
+          "value": 20
+        },
+        {
+          "RevenueShare": "Label",
+          "value": 55
+        }
+      ],
+      "columns": [
+        {
+          "name": "RevenueShare",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "value",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/13.png": {
+      "data": [
+        {
+          "Country": "Saudi Arabia",
+          "Percentage of GDP": 7.5
+        },
+        {
+          "Country": "Russia",
+          "Percentage of GDP": 4.1
+        },
+        {
+          "Country": "USA",
+          "Percentage of GDP": 3.5
+        },
+        {
+          "Country": "South Korea",
+          "Percentage of GDP": 2.8
+        },
+        {
+          "Country": "India",
+          "Percentage of GDP": 2.4
+        },
+        {
+          "Country": "United Kingdom",
+          "Percentage of GDP": 2.2
+        },
+        {
+          "Country": "France",
+          "Percentage of GDP": 2.1
+        },
+        {
+          "Country": "Australia",
+          "Percentage of GDP": 2.0
+        },
+        {
+          "Country": "China",
+          "Percentage of GDP": 1.7
+        },
+        {
+          "Country": "Italy",
+          "Percentage of GDP": 1.5
+        },
+        {
+          "Country": "Germany",
+          "Percentage of GDP": 1.4
+        },
+        {
+          "Country": "Brazil",
+          "Percentage of GDP": 1.4
+        },
+        {
+          "Country": "Canada",
+          "Percentage of GDP": 1.3
+        },
+        {
+          "Country": "Spain",
+          "Percentage of GDP": 1.2
+        },
+        {
+          "Country": "Japan",
+          "Percentage of GDP": 1.0
+        }
+      ],
+      "columns": [
+        {
+          "name": "Country",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Percentage of GDP",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/11.png": {
+      "data": [
+        {
+          "Year": "1960",
+          "Ratio": 32.49
+        },
+        {
+          "Year": "1970",
+          "Ratio": 55.0
+        },
+        {
+          "Year": "1980",
+          "Ratio": 70.0
+        },
+        {
+          "Year": "1990",
+          "Ratio": 80.0
+        },
+        {
+          "Year": "2000",
+          "Ratio": 90.0
+        },
+        {
+          "Year": "2010",
+          "Ratio": 102.5
+        },
+        {
+          "Year": "2023",
+          "Ratio": 150.0
+        }
+      ],
+      "columns": [
+        {
+          "name": "Year",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Ratio",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/8.png": {
+      "data": [
+        {
+          "Year": 2010,
+          "Revenue (billion USD)": 260.0
+        },
+        {
+          "Year": 2030,
+          "Revenue (billion USD)": 630.0
+        }
+      ],
+      "columns": [
+        {
+          "name": "Year",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Revenue (billion USD)",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/15.png": {
+      "data": [
+        {
+          "City": "ATHENS",
+          "Cost (GBP)": 200.42,
+          "Population (Millions)": 0.66
+        },
+        {
+          "City": "PRAGUE",
+          "Cost (GBP)": 199.86,
+          "Population (Millions)": 1.39
+        },
+        {
+          "City": "MOSCOW",
+          "Cost (GBP)": 199.64,
+          "Population (Millions)": 13.01
+        },
+        {
+          "City": "BUDAPEST",
+          "Cost (GBP)": 183.51,
+          "Population (Millions)": 1.75
+        },
+        {
+          "City": "WARSAW",
+          "Cost (GBP)": 180.53,
+          "Population (Millions)": 1.79
+        },
+        {
+          "City": "RIGA",
+          "Cost (GBP)": 172.17,
+          "Population (Millions)": 0.61
+        },
+        {
+          "City": "VILNIUS",
+          "Cost (GBP)": 165.53,
+          "Population (Millions)": 0.58
+        },
+        {
+          "City": "KRAKOW",
+          "Cost (GBP)": 164.8,
+          "Population (Millions)": 0.76
+        }
+      ],
+      "columns": [
+        {
+          "name": "City",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Cost (GBP)",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Population (Millions)",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/21.png": {
+      "data": [
+        {
+          "year": 1996,
+          "DSS-14 (Goldstone)": 6.0
+        },
+        {
+          "year": 2016,
+          "DSS-43 (Canberra)": 24.0,
+          "DSS-14 (Goldstone)": 12.0,
+          "DSS-63 (Madrid)": 6.0
+        },
+        {
+          "year": 2023,
+          "DSS-43 (Canberra)": 48.0,
+          "DSS-14 (Goldstone)": 24.0,
+          "DSS-63 (Madrid)": 12.0
+        }
+      ],
+      "columns": [
+        {
+          "name": "year",
+          "type": "quantitative",
+          "role": "x"
+        },
+        {
+          "name": "DSS-14 (Goldstone)",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "DSS-43 (Canberra)",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "DSS-63 (Madrid)",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/6.png": {
+      "data": [
+        {
+          "Platform": "X",
+          "Lombardy": 900,
+          "Lazio": 850,
+          "Campania": 950
+        },
+        {
+          "Platform": "Pinterest",
+          "Lombardy": 2000,
+          "Lazio": 1900,
+          "Campania": 2050
+        },
+        {
+          "Platform": "Facebook",
+          "Lombardy": 1200,
+          "Lazio": 1100,
+          "Campania": 1150
+        },
+        {
+          "Platform": "YouTube",
+          "Lombardy": 1800,
+          "Lazio": 1650,
+          "Campania": 1700
+        },
+        {
+          "Platform": "TikTok",
+          "Lombardy": 3100,
+          "Lazio": 2950,
+          "Campania": 3200
+        },
+        {
+          "Platform": "Instagram",
+          "Lombardy": 2550,
+          "Lazio": 2300,
+          "Campania": 2400
+        }
+      ],
+      "columns": [
+        {
+          "name": "Platform",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Lombardy",
+          "type": "quantitative",
+          "role": "x"
+        },
+        {
+          "name": "Lazio",
+          "type": "quantitative",
+          "role": "x"
+        },
+        {
+          "name": "Campania",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/24.png": {
+      "data": [
+        {
+          "Material": "Gold",
+          "Item": "Necklace",
+          "Price": 1250
+        },
+        {
+          "Material": "Gold",
+          "Item": "Earring",
+          "Price": 450
+        },
+        {
+          "Material": "Gold",
+          "Item": "Bracelet",
+          "Price": 900
+        },
+        {
+          "Material": "Gold",
+          "Item": "Ring",
+          "Price": 700
+        },
+        {
+          "Material": "Gold",
+          "Item": "Pendant",
+          "Price": 600
+        },
+        {
+          "Material": "Silver",
+          "Item": "Necklace",
+          "Price": 800
+        },
+        {
+          "Material": "Silver",
+          "Item": "Earring",
+          "Price": 200
+        },
+        {
+          "Material": "Silver",
+          "Item": "Bracelet",
+          "Price": 500
+        },
+        {
+          "Material": "Silver",
+          "Item": "Ring",
+          "Price": 350
+        },
+        {
+          "Material": "Silver",
+          "Item": "Pendant",
+          "Price": 300
+        },
+        {
+          "Material": "Diamond",
+          "Item": "Necklace",
+          "Price": 3500
+        },
+        {
+          "Material": "Diamond",
+          "Item": "Earring",
+          "Price": 1200
+        },
+        {
+          "Material": "Diamond",
+          "Item": "Bracelet",
+          "Price": 2000
+        },
+        {
+          "Material": "Diamond",
+          "Item": "Ring",
+          "Price": 1500
+        },
+        {
+          "Material": "Diamond",
+          "Item": "Pendant",
+          "Price": 1000
+        },
+        {
+          "Material": "Platinum",
+          "Item": "Necklace",
+          "Price": 150
+        },
+        {
+          "Material": "Platinum",
+          "Item": "Earring",
+          "Price": 75
+        },
+        {
+          "Material": "Platinum",
+          "Item": "Bracelet",
+          "Price": 110
+        },
+        {
+          "Material": "Platinum",
+          "Item": "Ring",
+          "Price": 90
+        },
+        {
+          "Material": "Platinum",
+          "Item": "Pendant",
+          "Price": 80
+        }
+      ],
+      "columns": [
+        {
+          "name": "Material",
+          "type": "categorical",
+          "role": "other"
+        },
+        {
+          "name": "Item",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Price",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/17.png": {
+      "data": [
+        {
+          "AI Model": "ChatGPT",
+          "Market Share": 32.1
+        },
+        {
+          "AI Model": "Jasper AI",
+          "Market Share": 18.5
+        },
+        {
+          "AI Model": "YouChat",
+          "Market Share": 12.3
+        },
+        {
+          "AI Model": "DeepL Translator",
+          "Market Share": 16.7
+        },
+        {
+          "AI Model": "Perplexity AI",
+          "Market Share": 9.8
+        },
+        {
+          "AI Model": "TypeHero AI",
+          "Market Share": 7.6
+        },
+        {
+          "AI Model": "Writesonic",
+          "Market Share": 5.2
+        },
+        {
+          "AI Model": "Neuro-Flash",
+          "Market Share": 3.8
+        },
+        {
+          "AI Model": "Simplified AI",
+          "Market Share": 1.3
+        }
+      ],
+      "columns": [
+        {
+          "name": "AI Model",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Market Share",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/1.png": {
+      "data": [
+        {
+          "Business Segments": "iPad",
+          "Value": 13.0
+        },
+        {
+          "Business Segments": "Wearables",
+          "Value": 15.5
+        },
+        {
+          "Business Segments": "Mac",
+          "Value": 15.5
+        },
+        {
+          "Business Segments": "Services",
+          "Value": 20.0
+        },
+        {
+          "Business Segments": "iPhone",
+          "Value": 36.0
+        }
+      ],
+      "columns": [
+        {
+          "name": "Business Segments",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Value",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/14.png": {
+      "data": [
+        {
+          "Category": "Prefer Traditional Booking",
+          "Percentage": 80
+        },
+        {
+          "Category": "Perceived Lower",
+          "Percentage": 30
+        },
+        {
+          "Category": "Desire",
+          "Percentage": 25
+        },
+        {
+          "Category": "Desire",
+          "Percentage": 15
+        },
+        {
+          "Category": "Miscellaneous Concerns",
+          "Percentage": 45
+        },
+        {
+          "Category": "Higher",
+          "Percentage": 10
+        },
+        {
+          "Category": "Higher",
+          "Percentage": 5
+        }
+      ],
+      "columns": [
+        {
+          "name": "Category",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Percentage",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/23.png": {
+      "data": [
+        {
+          "Year": "2020",
+          "Tokyo": 2.5,
+          "Seoul": 1.8,
+          "Singapore": null,
+          "Mumbai": null,
+          "Jakarta": null
+        },
+        {
+          "Year": "2022",
+          "Tokyo": 4.1,
+          "Seoul": 3.2,
+          "Singapore": 2.1,
+          "Mumbai": null,
+          "Jakarta": null
+        },
+        {
+          "Year": "2024",
+          "Tokyo": 6.3,
+          "Seoul": 5.1,
+          "Singapore": 3.5,
+          "Mumbai": 2.2,
+          "Jakarta": null
+        },
+        {
+          "Year": "2026",
+          "Tokyo": 8.8,
+          "Seoul": 7.0,
+          "Singapore": 5.0,
+          "Mumbai": 3.5,
+          "Jakarta": 2.4
+        },
+        {
+          "Year": "2028",
+          "Tokyo": 11.5,
+          "Seoul": 9.2,
+          "Singapore": 6.8,
+          "Mumbai": 5.0,
+          "Jakarta": 3.5
+        },
+        {
+          "Year": "2030",
+          "Tokyo": 14.5,
+          "Seoul": 11.6,
+          "Singapore": 8.7,
+          "Mumbai": 6.6,
+          "Jakarta": 4.8
+        }
+      ],
+      "columns": [
+        {
+          "name": "Year",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Tokyo",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Seoul",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Singapore",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Mumbai",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Jakarta",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/18.png": {
+      "data": [
+        {
+          "Year": "1997",
+          "Consumer Price Index": 0
+        },
+        {
+          "Year": "1999",
+          "Consumer Price Index": 3.27
+        },
+        {
+          "Year": "2002",
+          "Consumer Price Index": 11.52
+        },
+        {
+          "Year": "2004",
+          "Consumer Price Index": 17.1
+        },
+        {
+          "Year": "2005",
+          "Consumer Price Index": 21.07
+        },
+        {
+          "Year": "2009",
+          "Consumer Price Index": 33
+        },
+        {
+          "Year": "2011",
+          "Consumer Price Index": 39.45
+        },
+        {
+          "Year": "2014",
+          "Consumer Price Index": 46.77
+        }
+      ],
+      "columns": [
+        {
+          "name": "Year",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Consumer Price Index",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/2.png": {
+      "data": [
+        {
+          "Country": "Italy",
+          "Consumption(Tons)": 481000
+        },
+        {
+          "Country": "USA",
+          "Consumption(Tons)": 400000
+        },
+        {
+          "Country": "France",
+          "Consumption(Tons)": 330000
+        },
+        {
+          "Country": "Spain",
+          "Consumption(Tons)": 280000
+        },
+        {
+          "Country": "UK",
+          "Consumption(Tons)": 227000
+        }
+      ],
+      "columns": [
+        {
+          "name": "Country",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Consumption(Tons)",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/5.png": {
+      "data": [
+        {
+          "Date": "2024-07-15 10:00",
+          "General Admission": 85.5,
+          "VIP": 250.0
+        },
+        {
+          "Date": "2024-07-15 12:00",
+          "General Admission": 92.8,
+          "VIP": 275.3
+        },
+        {
+          "Date": "2024-07-15 14:00",
+          "General Admission": 110.0,
+          "VIP": 310.5
+        },
+        {
+          "Date": "2024-07-15 16:00",
+          "General Admission": 105.3,
+          "VIP": 295.8
+        },
+        {
+          "Date": "2024-07-15 18:00",
+          "General Admission": 98.0,
+          "VIP": 280.0
+        },
+        {
+          "Date": "2024-07-15 20:00",
+          "General Admission": 90.5,
+          "VIP": 265.5
+        },
+        {
+          "Date": "2024-07-15 22:00",
+          "General Admission": 80.0,
+          "VIP": 240.0
+        },
+        {
+          "Date": "2024-07-16 00:00",
+          "General Admission": 75.3,
+          "VIP": 225.8
+        }
+      ],
+      "columns": [
+        {
+          "name": "Date",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "General Admission",
+          "type": "quantitative",
+          "role": "x"
+        },
+        {
+          "name": "VIP",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/9.png": {
+      "data": [
+        {
+          "City": "Krakow",
+          "Cost (GBP)": 480,
+          "Population (Millions)": 1.1
+        },
+        {
+          "City": "Vilnius",
+          "Cost (GBP)": 410,
+          "Population (Millions)": 0.8
+        },
+        {
+          "City": "Riga",
+          "Cost (GBP)": 390,
+          "Population (Millions)": 0.9
+        },
+        {
+          "City": "Athens",
+          "Cost (GBP)": 330,
+          "Population (Millions)": 0.7
+        },
+        {
+          "City": "Prague",
+          "Cost (GBP)": 310,
+          "Population (Millions)": 1.8
+        },
+        {
+          "City": "Warsaw",
+          "Cost (GBP)": 290,
+          "Population (Millions)": 2.3
+        },
+        {
+          "City": "Budapest",
+          "Cost (GBP)": 250,
+          "Population (Millions)": 2.5
+        },
+        {
+          "City": "Moscow",
+          "Cost (GBP)": 220,
+          "Population (Millions)": 13.5
+        }
+      ],
+      "columns": [
+        {
+          "name": "City",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Cost (GBP)",
+          "type": "quantitative",
+          "role": "y"
+        },
+        {
+          "name": "Population (Millions)",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/22.png": {
+      "data": [
+        {
+          "Art Form": "Digital Art",
+          "Enrollment": 45300
+        },
+        {
+          "Art Form": "Graphic Design",
+          "Enrollment": 38500
+        },
+        {
+          "Art Form": "Painting",
+          "Enrollment": 32500
+        },
+        {
+          "Art Form": "Illustration",
+          "Enrollment": 31200
+        },
+        {
+          "Art Form": "Photography",
+          "Enrollment": 28900
+        },
+        {
+          "Art Form": "Film/Video",
+          "Enrollment": 25100
+        },
+        {
+          "Art Form": "Animation",
+          "Enrollment": 22600
+        },
+        {
+          "Art Form": "Game Design",
+          "Enrollment": 19500
+        },
+        {
+          "Art Form": "Sculpture",
+          "Enrollment": 18700
+        },
+        {
+          "Art Form": "Mixed Media",
+          "Enrollment": 17900
+        },
+        {
+          "Art Form": "Ceramics",
+          "Enrollment": 15400
+        },
+        {
+          "Art Form": "Textile Arts",
+          "Enrollment": 12100
+        },
+        {
+          "Art Form": "Printmaking",
+          "Enrollment": 9800
+        },
+        {
+          "Art Form": "Installation Art",
+          "Enrollment": 8200
+        },
+        {
+          "Art Form": "Performance Art",
+          "Enrollment": 6500
+        }
+      ],
+      "columns": [
+        {
+          "name": "Art Form",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Enrollment",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/20.png": {
+      "data": [
+        {
+          "City": "San Francisco",
+          "Diversion Rate": 18.1
+        },
+        {
+          "City": "Portland",
+          "Diversion Rate": 16.8
+        },
+        {
+          "City": "Seattle",
+          "Diversion Rate": 15.6
+        },
+        {
+          "City": "Minneapolis",
+          "Diversion Rate": 14.2
+        },
+        {
+          "City": "Denver",
+          "Diversion Rate": 13.9
+        },
+        {
+          "City": "New York",
+          "Diversion Rate": 12.5
+        },
+        {
+          "City": "Boston",
+          "Diversion Rate": 11.3
+        },
+        {
+          "City": "Los Angeles",
+          "Diversion Rate": 9.8
+        },
+        {
+          "City": "Atlanta",
+          "Diversion Rate": 8.9
+        },
+        {
+          "City": "Austin",
+          "Diversion Rate": 8.5
+        },
+        {
+          "City": "Chicago",
+          "Diversion Rate": 7.2
+        },
+        {
+          "City": "Philadelphia",
+          "Diversion Rate": 6.4
+        },
+        {
+          "City": "Nashville",
+          "Diversion Rate": 5.1
+        },
+        {
+          "City": "Miami",
+          "Diversion Rate": 4.7
+        },
+        {
+          "City": "Phoenix",
+          "Diversion Rate": 3.9
+        }
+      ],
+      "columns": [
+        {
+          "name": "City",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Diversion Rate",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/4.png": {
+      "data": [
+        {
+          "Country": "Archipelago of Indonesia",
+          "Earths": 11.2
+        },
+        {
+          "Country": "People's Republic of China",
+          "Earths": 6.3
+        },
+        {
+          "Country": "United Kingdom of Britannia",
+          "Earths": 5.7
+        },
+        {
+          "Country": "South Korea",
+          "Earths": 3.0
+        },
+        {
+          "Country": "Federative Republic of Brazil",
+          "Earths": 2.6
+        },
+        {
+          "Country": "Denmark",
+          "Earths": 2.1
+        },
+        {
+          "Country": "United States of America",
+          "Earths": 1.4
+        },
+        {
+          "Country": "Federal Republic of Germany",
+          "Earths": 0.8
+        }
+      ],
+      "columns": [
+        {
+          "name": "Country",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Earths",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/10.png": {
+      "data": [
+        {
+          "Year": "2000",
+          "Exports (Million U.S. Dollars)": 73
+        },
+        {
+          "Year": "2004",
+          "Exports (Million U.S. Dollars)": 45
+        },
+        {
+          "Year": "2008",
+          "Exports (Million U.S. Dollars)": 25
+        },
+        {
+          "Year": "2012",
+          "Exports (Million U.S. Dollars)": 13
+        },
+        {
+          "Year": "2016",
+          "Exports (Million U.S. Dollars)": 3
+        }
+      ],
+      "columns": [
+        {
+          "name": "Year",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Exports (Million U.S. Dollars)",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/7.png": {
+      "data": [
+        {
+          "TransportationMode": "Truck",
+          "Percentage": 16.3
+        },
+        {
+          "TransportationMode": "Airplane",
+          "Percentage": 45.0
+        },
+        {
+          "TransportationMode": "Ship",
+          "Percentage": 30.0
+        },
+        {
+          "TransportationMode": "Train",
+          "Percentage": 7.5
+        },
+        {
+          "TransportationMode": "Electric Vehicle",
+          "Percentage": 1.3
+        }
+      ],
+      "columns": [
+        {
+          "name": "TransportationMode",
+          "type": "categorical",
+          "role": "x"
+        },
+        {
+          "name": "Percentage",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    },
+    "./examples/19.png": {
+      "data": [
+        {
+          "Country": "Soviet Union",
+          "Casualties": 27000000
+        },
+        {
+          "Country": "China",
+          "Casualties": 20000000
+        },
+        {
+          "Country": "Germany",
+          "Casualties": 7000000
+        },
+        {
+          "Country": "Poland",
+          "Casualties": 6000000
+        },
+        {
+          "Country": "Japan",
+          "Casualties": 3100000
+        },
+        {
+          "Country": "Yugoslavia",
+          "Casualties": 1000000
+        },
+        {
+          "Country": "France",
+          "Casualties": 600000
+        },
+        {
+          "Country": "United Kingdom",
+          "Casualties": 450000
+        },
+        {
+          "Country": "Italy",
+          "Casualties": 450000
+        },
+        {
+          "Country": "United States",
+          "Casualties": 419000
+        },
+        {
+          "Country": "Greece",
+          "Casualties": 400000
+        },
+        {
+          "Country": "Austria",
+          "Casualties": 384700
+        },
+        {
+          "Country": "Romania",
+          "Casualties": 378000
+        },
+        {
+          "Country": "Czechoslovakia",
+          "Casualties": 340000
+        },
+        {
+          "Country": "Hungary",
+          "Casualties": 300000
+        },
+        {
+          "Country": "Netherlands",
+          "Casualties": 210000
+        }
+      ],
+      "columns": [
+        {
+          "name": "Country",
+          "type": "categorical",
+          "role": "y"
+        },
+        {
+          "name": "Casualties",
+          "type": "quantitative",
+          "role": "x"
+        }
+      ]
+    },
+    "./examples/3.png": {
+      "data": [
+        {
+          "Age Group": "18-24",
+          "Category": "Comedy",
+          "Percentage": 32.5
+        },
+        {
+          "Age Group": "18-24",
+          "Category": "News",
+          "Percentage": 15.2
+        },
+        {
+          "Age Group": "18-24",
+          "Category": "True Crime",
+          "Percentage": 22.1
+        },
+        {
+          "Age Group": "18-24",
+          "Category": "Education",
+          "Percentage": 20.2
+        },
+        {
+          "Age Group": "18-24",
+          "Category": "Society & Culture",
+          "Percentage": 10.0
+        },
+        {
+          "Age Group": "25-34",
+          "Category": "Comedy",
+          "Percentage": 28.7
+        },
+        {
+          "Age Group": "25-34",
+          "Category": "News",
+          "Percentage": 18.5
+        },
+        {
+          "Age Group": "25-34",
+          "Category": "True Crime",
+          "Percentage": 25.8
+        },
+        {
+          "Age Group": "25-34",
+          "Category": "Education",
+          "Percentage": 17.0
+        },
+        {
+          "Age Group": "25-34",
+          "Category": "Society & Culture",
+          "Percentage": 10.0
+        },
+        {
+          "Age Group": "35-44",
+          "Category": "Comedy",
+          "Percentage": 22.1
+        },
+        {
+          "Age Group": "35-44",
+          "Category": "News",
+          "Percentage": 25.3
+        },
+        {
+          "Age Group": "35-44",
+          "Category": "True Crime",
+          "Percentage": 20.5
+        },
+        {
+          "Age Group": "35-44",
+          "Category": "Education",
+          "Percentage": 18.1
+        },
+        {
+          "Age Group": "35-44",
+          "Category": "Society & Culture",
+          "Percentage": 14.0
+        },
+        {
+          "Age Group": "45+",
+          "Category": "Comedy",
+          "Percentage": 15.6
+        },
+        {
+          "Age Group": "45+",
+          "Category": "News",
+          "Percentage": 30.1
+        },
+        {
+          "Age Group": "45+",
+          "Category": "True Crime",
+          "Percentage": 18.8
+        },
+        {
+          "Age Group": "45+",
+          "Category": "Education",
+          "Percentage": 22.7
+        },
+        {
+          "Age Group": "45+",
+          "Category": "Society & Culture",
+          "Percentage": 12.8
+        }
+      ],
+      "columns": [
+        {
+          "name": "Age Group",
+          "type": "categorical",
+          "role": "other"
+        },
+        {
+          "name": "Category",
+          "type": "categorical",
+          "role": "other"
+        },
+        {
+          "name": "Percentage",
+          "type": "quantitative",
+          "role": "y"
+        }
+      ]
+    }
+  }
+}

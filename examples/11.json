@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "Year": "1960",
+      "Ratio": 32.49
+    },
+    {
+      "Year": "1970",
+      "Ratio": 55.0
+    },
+    {
+      "Year": "1980",
+      "Ratio": 70.0
+    },
+    {
+      "Year": "1990",
+      "Ratio": 80.0
+    },
+    {
+      "Year": "2000",
+      "Ratio": 90.0
+    },
+    {
+      "Year": "2010",
+      "Ratio": 102.5
+    },
+    {
+      "Year": "2023",
+      "Ratio": 150.0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Year",
+      "type": "temporal",
+      "role": "x"
+    },
+    {
+      "name": "Ratio",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

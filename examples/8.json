@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "Year": 2010,
+      "Revenue (billion USD)": 260.0
+    },
+    {
+      "Year": 2015,
+      "Revenue (billion USD)": 300.0
+    },
+    {
+      "Year": 2020,
+      "Revenue (billion USD)": 370.0
+    },
+    {
+      "Year": 2025,
+      "Revenue (billion USD)": 490.0
+    },
+    {
+      "Year": 2030,
+      "Revenue (billion USD)": 630.0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Year",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Revenue (billion USD)",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

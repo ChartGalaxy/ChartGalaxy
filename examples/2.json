@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "Country": "Italy",
+      "Consumption(Tons)": 481000
+    },
+    {
+      "Country": "USA",
+      "Consumption(Tons)": 400000
+    },
+    {
+      "Country": "France",
+      "Consumption(Tons)": 330000
+    },
+    {
+      "Country": "Spain",
+      "Consumption(Tons)": 280000
+    },
+    {
+      "Country": "UK",
+      "Consumption(Tons)": 227000
+    }
+  ],
+  "columns": [
+    {
+      "name": "Country",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Consumption(Tons)",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

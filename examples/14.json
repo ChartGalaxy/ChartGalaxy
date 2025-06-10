@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "Category": "Prefer Traditional Booking",
+      "Percentage": 80
+    },
+    {
+      "Category": "Perceived Lower",
+      "Percentage": 30
+    },
+    {
+      "Category": "Desire",
+      "Percentage": 25
+    },
+    {
+      "Category": "Desire",
+      "Percentage": 15
+    },
+    {
+      "Category": "Miscellaneous Concerns",
+      "Percentage": 45
+    },
+    {
+      "Category": "Higher",
+      "Percentage": 10
+    },
+    {
+      "Category": "Higher",
+      "Percentage": 5
+    }
+  ],
+  "columns": [
+    {
+      "name": "Category",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Percentage",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

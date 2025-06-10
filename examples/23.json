@@ -1,0 +1,51 @@
+{
+  "data": [
+    {"year": 2020, "City": "Tokyo", "Rate": 2.5},
+    {"year": 2020, "City": "Seoul", "Rate": 1.8},
+    {"year": 2020, "City": "Singapore", "Rate": 1.0},
+    {"year": 2020, "City": "Mumbai", "Rate": 0.5},
+    {"year": 2020, "City": "Jakarta", "Rate": 0.2},
+    {"year": 2022, "City": "Tokyo", "Rate": 4.1},
+    {"year": 2022, "City": "Seoul", "Rate": 3.2},
+    {"year": 2022, "City": "Singapore", "Rate": 2.1},
+    {"year": 2022, "City": "Mumbai", "Rate": 0.8},
+    {"year": 2022, "City": "Jakarta", "Rate": 0.4},
+    {"year": 2024, "City": "Tokyo", "Rate": 6.3},
+    {"year": 2024, "City": "Seoul", "Rate": 5.1},
+    {"year": 2024, "City": "Singapore", "Rate": 3.5},
+    {"year": 2024, "City": "Mumbai", "Rate": 2.2},
+    {"year": 2024, "City": "Jakarta", "Rate": 1.4},
+    {"year": 2026, "City": "Tokyo", "Rate": 8.8},
+    {"year": 2026, "City": "Seoul", "Rate": 7.0},
+    {"year": 2026, "City": "Singapore", "Rate": 5.0},
+    {"year": 2026, "City": "Mumbai", "Rate": 3.5},
+    {"year": 2026, "City": "Jakarta", "Rate": 2.4},
+    {"year": 2028, "City": "Tokyo", "Rate": 11.5},
+    {"year": 2028, "City": "Seoul", "Rate": 9.2},
+    {"year": 2028, "City": "Singapore", "Rate": 6.8},
+    {"year": 2028, "City": "Mumbai", "Rate": 5.0},
+    {"year": 2028, "City": "Jakarta", "Rate": 3.5},
+    {"year": 2030, "City": "Tokyo", "Rate": 14.5},
+    {"year": 2030, "City": "Seoul", "Rate": 11.6},
+    {"year": 2030, "City": "Singapore", "Rate": 8.7},
+    {"year": 2030, "City": "Mumbai", "Rate": 6.6},
+    {"year": 2030, "City": "Jakarta", "Rate": 4.8}
+  ],
+  "columns": [
+    {
+      "name": "year",
+      "type": "temporal",
+      "role": "x"
+    },
+    {
+      "name": "City",
+      "type": "categorical",
+      "role": "group"
+    },
+    {
+      "name": "Rate",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

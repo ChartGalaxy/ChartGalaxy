@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "RevenueShare": "Publisher",
+      "value": 5
+    },
+    {
+      "RevenueShare": "Distributor",
+      "value": 5
+    },
+    {
+      "RevenueShare": "Artist",
+      "value": 15
+    },
+    {
+      "RevenueShare": "Platform",
+      "value": 20
+    },
+    {
+      "RevenueShare": "Label",
+      "value": 55
+    }
+  ],
+  "columns": [
+    {
+      "name": "RevenueShare",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "value",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

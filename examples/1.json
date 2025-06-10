@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "Business Segments": "iPad",
+      "Value": 13.0
+    },
+    {
+      "Business Segments": "Wearables",
+      "Value": 15.5
+    },
+    {
+      "Business Segments": "Mac",
+      "Value": 15.5
+    },
+    {
+      "Business Segments": "Services",
+      "Value": 20.0
+    },
+    {
+      "Business Segments": "iPhone",
+      "Value": 36.0
+    }
+  ],
+  "columns": [
+    {
+      "name": "Business Segments",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Value",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

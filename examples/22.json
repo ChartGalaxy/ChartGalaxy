@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "Art Form": "Digital Art",
+      "Enrollment": 45300
+    },
+    {
+      "Art Form": "Graphic Design",
+      "Enrollment": 38500
+    },
+    {
+      "Art Form": "Painting",
+      "Enrollment": 32500
+    },
+    {
+      "Art Form": "Illustration",
+      "Enrollment": 31200
+    },
+    {
+      "Art Form": "Photography",
+      "Enrollment": 28900
+    },
+    {
+      "Art Form": "Film/Video",
+      "Enrollment": 25100
+    },
+    {
+      "Art Form": "Animation",
+      "Enrollment": 22600
+    },
+    {
+      "Art Form": "Game Design",
+      "Enrollment": 19500
+    },
+    {
+      "Art Form": "Sculpture",
+      "Enrollment": 18700
+    },
+    {
+      "Art Form": "Mixed Media",
+      "Enrollment": 17900
+    },
+    {
+      "Art Form": "Ceramics",
+      "Enrollment": 15400
+    },
+    {
+      "Art Form": "Textile Arts",
+      "Enrollment": 12100
+    },
+    {
+      "Art Form": "Printmaking",
+      "Enrollment": 9800
+    },
+    {
+      "Art Form": "Installation Art",
+      "Enrollment": 8200
+    },
+    {
+      "Art Form": "Performance Art",
+      "Enrollment": 6500
+    }
+  ],
+  "columns": [
+    {
+      "name": "Art Form",
+      "type": "categorical",
+      "role": "x"
+    },
+    {
+      "name": "Enrollment",
+      "type": "quantitative",
+      "role": "y"
+    }
+  ]
+}

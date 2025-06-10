@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "Date": "2024-07-15 10:00",
+      "General Admission": 85.5,
+      "VIP": 250.0
+    },
+    {
+      "Date": "2024-07-15 12:00",
+      "General Admission": 92.8,
+      "VIP": 275.3
+    },
+    {
+      "Date": "2024-07-15 14:00",
+      "General Admission": 110.0,
+      "VIP": 310.5
+    },
+    {
+      "Date": "2024-07-15 16:00",
+      "General Admission": 105.3,
+      "VIP": 295.8
+    },
+    {
+      "Date": "2024-07-15 18:00",
+      "General Admission": 98.0,
+      "VIP": 280.0
+    },
+    {
+      "Date": "2024-07-15 20:00",
+      "General Admission": 90.5,
+      "VIP": 265.5
+    },
+    {
+      "Date": "2024-07-15 22:00",
+      "General Admission": 80.0,
+      "VIP": 240.0
+    },
+    {
+      "Date": "2024-07-16 00:00",
+      "General Admission": 75.3,
+      "VIP": 225.8
+    }
+  ],
+  "columns": [
+    {
+      "name": "Date",
+      "type": "categorical",
+      "role": "y"
+    },
+    {
+      "name": "General Admission",
+      "type": "quantitative",
+      "role": "x"
+    },
+    {
+      "name": "VIP",
+      "type": "quantitative",
+      "role": "x"
+    }
+  ]
+}
