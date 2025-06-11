@@ -83,7 +83,7 @@ A benchmark for assessing LVLMs' code generation for infographic charts. The ben
 
 An example-based method that transforms user-provided tabular data into an infographic chart, aligning with the layout and visual style of a given example chart. User studies show this method outperforms GPT-Image-1 on fidelity, aesthetics, and creativity.
 
-**Coming soon.**
+**We provide the code for the example-based infographic chart generation introduced in our paper ([**code**](example_based_generation)).**
 
 ## ⚖️ License
 This project is released under the [Apache 2.0 license](LICENSE).

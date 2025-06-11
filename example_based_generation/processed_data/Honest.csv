@@ -1,0 +1,25 @@
+Profession,Units,Risk Level
+Registered Nurses,6.0,Dishonest
+Registered Nurses,150.0,Honest
+Physicians,8.0,Dishonest
+Physicians,155.0,Honest
+Primary School Teachers,9.0,Dishonest
+Primary School Teachers,105.0,Honest
+Law Enforcement Officers,32.0,Dishonest
+Law Enforcement Officers,55.0,Honest
+Judges,48.0,Dishonest
+Judges,40.0,Honest
+Attorneys,90.0,Dishonest
+Attorneys,4.0,Honest
+Union Representatives,110.0,Dishonest
+Union Representatives,3.0,Honest
+Corporate Executives,130.0,Dishonest
+Corporate Executives,2.0,Honest
+News Reporters,140.0,Dishonest
+News Reporters,1.0,Honest
+Auto Salespersons,155.0,Dishonest
+Auto Salespersons,0.5,Honest
+Telephone Marketers,160.0,Dishonest
+Telephone Marketers,0.1,Honest
+Elected Officials,158.0,Dishonest
+Elected Officials,0.05,Honest
