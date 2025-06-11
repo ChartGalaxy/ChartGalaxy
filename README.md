@@ -58,7 +58,7 @@ ChartGalaxy was constructed through:
 1. **Real Infographic Chart Collection**: Charts were collected from 19 reputable chart-rich websites, such as Pinterest, Visual Capitalist, Statista, and Information is Beautiful.
 
 2. **Synthetic Infographic Chart Creation**: Following an inductive structuring process that:
-   - Identifies 75 chart types (e.g., bar charts) and 440 chart variations reflecting different visual element styles
+   - Identifies 75 chart types (e.g., bar charts) and 330 chart variations reflecting different visual element styles
    - Extracts 68 layout templates defining spatial relationships among elements
    - Programmatically generates synthetic charts based on these patterns
 
