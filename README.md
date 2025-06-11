@@ -46,9 +46,9 @@ Due to storage limitations, we only include a collection of representative examp
 
 ### 📊 Statistics
 
-- **Size**: 1,323,384 infographic charts (1,218,865 synthetic + 104,519 real)
+- **Size**: 1,151,087 infographic charts (1,151,087 synthetic + 104,519 real)
 - **Content**: Each infographic chart is paired with the tabular data used to create it
-- **Chart Types**: 75 chart types with 440 chart variations
+- **Chart Types**: 75 chart types with 330 chart variations
 - **Layout Templates**: 68 layout templates
 
 ### 🚀 Data Collection and Creation
