@@ -28,7 +28,7 @@
 ![Examples image](assets/teaser.png)
 
 ## 🔥 News
-[2025.6] 🎉🎉 We are excited to announce a new release of our dataset! This update includes an additional 67,778 synthetic infographic charts, bringing the total number of chart variations to 440.
+[2025.6] 🎉🎉 We are excited to announce a new release of our dataset! This update includes an additional 210,217 synthetic infographic charts, bringing the total number of chart variations to 440.
 
 [2025.5] 🎉🎉 We have released the first version of our dataset, which includes 1,151,087 synthetic and 104,519 real infographic charts, covering 75 chart types and 330 variations.
 
