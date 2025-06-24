@@ -12,8 +12,8 @@ import numpy as np
 import cv2
 from io import BytesIO
 
-API_KEY = "sk-fXeawLEs4yWBDTZS52455975E4Db4dE1Ba923eC3E678A59b"
-BASE_URL = "https://aihubmix.com/v1"
+API_KEY = "YOUR_API_KEY"
+BASE_URL = "YOUR_OPENAI_SERVER_URL"
 
 class InfographicImageGenerator:
     def __init__(self):
