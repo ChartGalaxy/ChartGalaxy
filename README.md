@@ -9,12 +9,6 @@
 <!-- This is the official code repository of the paper "[ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation](https://arxiv.org/abs/2505.18668)".  -->
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2505.18668">
-    <img
-      src="https://img.shields.io/badge/ChartGalaxy-Paper-Red%25red?logo=arxiv&logoColor=red&color=yellow"
-      alt="ChartGalaxy Paper on arXiv"
-    />
-  </a>
   <a href="https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy">
     <img
       src="https://img.shields.io/badge/ChartGalaxy-Data-orange?logo=huggingface&logoColor=yellow" 
@@ -87,24 +81,6 @@ An example-based method that transforms user-provided tabular data into an infog
 
 ## ⚖️ License
 This project is released under the [Apache 2.0 license](LICENSE).
-
-## 📚 Citation
-If you find our work helpful for your research, please consider citing the following BibTeX entry.
-```
-@article{li2025chartgalaxy,
-  title={{ChartGalaxy}: A Dataset for Infographic Chart Understanding and Generation},
-  author={Li, Zhen and Guo, Yukai and Li, Duan and Guo, Xinyuan and Li, Bowen and Xiao, Lanxi and Qiao, Shenyu and Chen, Jiashu and Wu, Zijian and Zhang, Hui and Shu, Xinhuan and Liu, Shixia},
-  journal={arXiv preprint arXiv:2505.18668},
-  year={2025}
-}
-```
-
-## ✨ Related Projects
-- **OrionBench: A Benchmark for Chart and Human-Recognizable Object Detection in Infographics**  
-[Paper](https://arxiv.org/abs/2505.17473) | [Code](https://github.com/OrionBench/OrionBench/) | [Dataset](https://huggingface.co/datasets/OrionBench/OrionBench)
-
-- **InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**  
-[Paper](https://arxiv.org/abs/2505.19028) | [Code](https://github.com/CoolDawnAnt/InfoChartQA) | [Dataset](https://huggingface.co/datasets/Jietson/InfoChartQA)
 
 
 ## 🤝 Contact
