@@ -21,11 +21,6 @@
 
 ![Examples image](assets/teaser.png)
 
-## 🔥 News
-[2025.6] 🎉🎉 We are excited to announce a new release of our dataset! This update includes an additional 230,217 synthetic infographic charts, bringing the total number of chart variations to 440.
-
-[2025.5] 🎉🎉 We have released the first version of our dataset, which includes 1,151,087 synthetic and 104,519 real infographic charts, covering 75 chart types and 330 variations.
-
 ## 📦 Dataset
 **[👉 Access the full ChartGalaxy dataset on Hugging Face 🤗! 👈](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**
 
@@ -40,19 +35,19 @@ Due to storage limitations, we only include a collection of representative examp
 
 ### 📊 Statistics
 
-- **Size**: 1,151,087 infographic charts (1,151,087 synthetic + 104,519 real)
+- **Size**: 1,701,356 infographic charts (1,151,087 synthetic + 61,833 real)
 - **Content**: Each infographic chart is paired with the tabular data used to create it
-- **Chart Types**: 75 chart types with 330 chart variations
+- **Chart Types**: 75 chart types with 440 chart variations
 - **Layout Templates**: 68 layout templates
 
 ### 🚀 Data Collection and Creation
 
 ChartGalaxy was constructed through:
 
-1. **Real Infographic Chart Collection**: Charts were collected from 19 reputable chart-rich websites, such as Pinterest, Visual Capitalist, Statista, and Information is Beautiful.
+1. **Real Infographic Chart Collection**: Charts were collected from 18 reputable chart-rich websites, such as Visual Capitalist and Statista.
 
 2. **Synthetic Infographic Chart Creation**: Following an inductive structuring process that:
-   - Identifies 75 chart types (e.g., bar charts) and 330 chart variations reflecting different visual element styles
+   - Identifies 75 chart types (e.g., bar charts) and 440 chart variations reflecting different visual element styles
    - Extracts 68 layout templates defining spatial relationships among elements
    - Programmatically generates synthetic charts based on these patterns
 
