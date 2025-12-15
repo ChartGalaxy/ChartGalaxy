@@ -21,6 +21,9 @@
 
 ![Examples image](assets/teaser.png)
 
+## 🔥 News
+2025.12:  🎉🎉 A batch of new data has been updated on Hugging Face.
+
 ## 📦 Dataset
 **[👉 Access the full ChartGalaxy dataset on Hugging Face 🤗! 👈](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**
 
