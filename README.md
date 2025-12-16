@@ -22,7 +22,7 @@
 ![Examples image](assets/teaser.png)
 
 ## 🔥 News
-2025.12.15:  🎉🎉 A batch of new data has been updated on **[Hugging Face 🤗](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**.
+2025.12.15:  🎉🎉  A new batch of data has been added on **[Hugging Face 🤗](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**, comprising 19,458 infographic charts. This update includes more diverse title designs and fixes for layout issues that could cause ambiguity.
 
 ## 📦 Dataset
 **[👉 Access the full ChartGalaxy dataset on Hugging Face 🤗! 👈](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)**
