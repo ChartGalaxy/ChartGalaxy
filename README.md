@@ -88,6 +88,22 @@ ChartGalaxy can also support a broad range of related tasks, including:
 - **layout-aware generation and editing**
 - **retrieval-based** infographic chart generation
 
+## 📖 Citation
+
+If you find ChartGalaxy useful in your research, please cite our paper:
+
+```bibtex
+@misc{li2025chartgalaxy,
+      title={ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation}, 
+      author={Zhen Li and Duan Li and Yukai Guo and Xinyuan Guo and Bowen Li and Lanxi Xiao and Shenyu Qiao and Jiashu Chen and Zijian Wu and Hui Zhang and Xinhuan Shu and Shixia Liu},
+      year={2025},
+      eprint={2505.18668},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.18668},
+}
+```
+
 ## ⚖️ License
 This project is released under the [Apache 2.0 license](LICENSE).
 
