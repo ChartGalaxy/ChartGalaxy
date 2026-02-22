@@ -80,6 +80,14 @@ An example-based method that transforms user-provided tabular data into an infog
 
 **We provide the code for the example-based infographic chart generation introduced in our paper ([**code**](example_based_generation)).**
 
+### 🔧 Other Supported Tasks
+ChartGalaxy can also support a broad range of related tasks, including:
+- infographic chart **visual question answering**
+- **chart-to-table** / data extraction
+- **infographic chart generation**
+- **layout-aware generation and editing**
+- **retrieval-based** infographic chart generation
+
 ## ⚖️ License
 This project is released under the [Apache 2.0 license](LICENSE).
 
