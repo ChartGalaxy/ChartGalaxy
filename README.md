@@ -104,6 +104,17 @@ If you find ChartGalaxy useful in your research, please cite our paper:
 }
 ```
 
+## ✨ Related Projects
+
+- **InfoDet: A Dataset for Infographic Element Detection**
+
+  [Paper](https://openreview.net/forum?id=Wj0Sc9WBHZ) | [Code](https://github.com/infodet2025/InfoDet) | [Dataset](https://huggingface.co/datasets/InfoDet/InfoDet)
+
+- **InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**
+
+  [Paper](https://arxiv.org/abs/2505.19028) | [Code](https://github.com/CoolDawnAnt/InfoChartQA) | [Dataset](https://huggingface.co/datasets/Jietson/InfoChartQA)
+
+
 ## ⚖️ License
 This project is released under the [Apache 2.0 license](LICENSE).
 
