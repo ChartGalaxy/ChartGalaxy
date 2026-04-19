@@ -93,14 +93,12 @@ ChartGalaxy can also support a broad range of related tasks, including:
 If you find ChartGalaxy useful in your research, please cite our paper:
 
 ```bibtex
-@misc{li2025chartgalaxy,
+@inproceedings{li2025chartgalaxy,
       title={ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation}, 
       author={Zhen Li and Duan Li and Yukai Guo and Xinyuan Guo and Bowen Li and Lanxi Xiao and Shenyu Qiao and Jiashu Chen and Zijian Wu and Hui Zhang and Xinhuan Shu and Shixia Liu},
-      year={2025},
-      eprint={2505.18668},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.18668},
+      year={2026},
+      booktitle={The Fourteenth International Conference on Learning Representations},
+      url={https://openreview.net/forum?id=P4lFbvZ4HH},
 }
 ```
 
